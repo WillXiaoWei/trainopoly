@@ -40,6 +40,12 @@ window.__require = function e(t, n, r) {
           cc.log("back");
           cc.director.loadScene("welcome");
         });
+        var musicToggleLoc = "Canvas/switch";
+        var musicToggleButton = cc.find(musicToggleLoc).getComponent(cc.Button);
+        musicToggleButton.node.on(cc.Node.EventType.TOUCH_START, function(event) {
+          cc.log("music");
+          cc.log(musicToggleButton.isChecked);
+        });
       },
       update: function update(dt) {}
     });
@@ -53,6 +59,31 @@ window.__require = function e(t, n, r) {
       extends: cc.Component,
       properties: {},
       onLoad: function onLoad() {
+        cc.log("wechat");
+        var button = wx.createUserInfoButton({
+          type: "text",
+          text: "\u83b7\u53d6\u7528\u6237\u4fe1\u606f",
+          style: {
+            left: 10,
+            top: 76,
+            width: 200,
+            height: 40,
+            lineHeight: 40,
+            backgroundColor: "#ff0000",
+            color: "#ffffff",
+            textAlign: "center",
+            fontSize: 16,
+            borderRadius: 4
+          }
+        });
+        button.onTap(function(res) {
+          wx.setStorage({
+            key: "userInfo",
+            data: res.userInfo
+          });
+        });
+        button.show();
+        cc.log("pass");
         var buttonLocation = "Canvas/settingBtn";
         var nodeButton = cc.find(buttonLocation).getComponent(cc.Button);
         nodeButton.node.on(cc.Node.EventType.TOUCH_START, function(event) {

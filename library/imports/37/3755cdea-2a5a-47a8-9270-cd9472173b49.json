@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Menu sign",
+    "texture": "bc6f3730-7554-42cd-8759-7019aabd9800",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      300,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

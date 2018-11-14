@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "游戏对话框",
+    "texture": "752ceac1-8588-4a5a-b0f2-796e352151bc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      804,
+      154
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      804,
+      154
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
