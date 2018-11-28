@@ -36,6 +36,12 @@ cc.Class({
             // click evnt
             cc.log("music");
             cc.log(musicToggleButton.isChecked);
+
+            if (musicToggleButton.isChecked) {
+                cc.audioEngine.pauseAll();
+            } else {
+                cc.audioEngine.resumeAll();
+            }
         });
     },
 

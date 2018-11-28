@@ -33,7 +33,13 @@ cc.Class({
       musicToggleButton.node.on(cc.Node.EventType.TOUCH_START, function(event){
           // click evnt
            cc.log("music");
-           cc.log(musicToggleButton.isChecked);
+           cc.log(musicToggleButton.isChecked)
+
+          if(musicToggleButton.isChecked){
+              cc.audioEngine.pauseAll()
+          }else{
+              cc.audioEngine.resumeAll()
+          }
 
       });
     },

@@ -48,8 +48,8 @@
       },
       "_scale": {
         "__type__": "cc.Vec3",
-        "x": 0.3828125,
-        "y": 0.3828125,
+        "x": 1,
+        "y": 1,
         "z": 1
       },
       "autoReleaseAssets": false
@@ -75,6 +75,12 @@
         },
         {
           "__id__": 8
+        },
+        {
+          "__id__": 10
+        },
+        {
+          "__id__": 11
         }
       ],
       "_components": [
@@ -213,7 +219,7 @@
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "y": 100
+        "y": 180
       },
       "_scale": {
         "__type__": "cc.Vec3",
@@ -471,6 +477,77 @@
         "y": 1,
         "z": 1
       }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "Avatar",
+      "_parent": {
+        "__id__": 2
+      },
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 10
+          },
+          "_spriteFrame": {
+            "__uuid__": "8c20Sso/ZEn7NUfNSM+EBh"
+          }
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 40,
+        "height": 36
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 68
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "greeting",
+      "_parent": {
+        "__id__": 2
+      },
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Label",
+          "node": {
+            "__id__": 11
+          },
+          "_srcBlendFactor": 1,
+          "_useOriginalSize": false,
+          "_string": "Label",
+          "_N$string": "Label",
+          "_N$horizontalAlign": 1,
+          "_N$verticalAlign": 1
+        }
+      ],
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 97.87,
+        "height": 40
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": -41
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
     }
   ],
   {
@@ -491,6 +568,33 @@
       "originalSize": [
         2,
         2
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "default_sprite",
+      "texture": "6eBWFz0oVHPLIGQKf/9Thu",
+      "rect": [
+        0,
+        2,
+        40,
+        36
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        40,
+        40
       ],
       "capInsets": [
         0,
