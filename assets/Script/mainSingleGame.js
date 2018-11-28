@@ -31,7 +31,15 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {},
+    onLoad () {
+      cc.log('main scen')
+      cc.loader.loadRes( 'questions.json', function( err, res)
+      {
+          cc.log(res.json.level1);
+
+      });
+
+    },
 
     start () {
 

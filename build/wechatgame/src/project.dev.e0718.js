@@ -122,6 +122,23 @@ window.__require = function e(t, n, r) {
   }, {
     "./Storage": "Storage"
   } ],
+  mainSingleGame: [ function(require, module, exports) {
+    "use strict";
+    cc._RF.push(module, "e23a9ROq0tEK5FFyO+LWCKH", "mainSingleGame");
+    "use strict";
+    cc.Class({
+      extends: cc.Component,
+      properties: {},
+      onLoad: function onLoad() {
+        cc.log("main scen");
+        cc.loader.loadRes("questions.json", function(err, res) {
+          cc.log(res.json);
+        });
+      },
+      start: function start() {}
+    });
+    cc._RF.pop();
+  }, {} ],
   settings: [ function(require, module, exports) {
     "use strict";
     cc._RF.push(module, "6547fxEFPpFkIrkJcy2rAb1", "settings");
@@ -204,4 +221,4 @@ window.__require = function e(t, n, r) {
   }, {
     "./Storage": "Storage"
   } ]
-}, {}, [ "Storage", "getUserInfo", "settings", "welcome" ]);
+}, {}, [ "Storage", "getUserInfo", "mainSingleGame", "settings", "welcome" ]);

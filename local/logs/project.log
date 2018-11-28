@@ -1,58 +1,1838 @@
-2018-11-27T20:26:00.690Z - normal: Load ~/.CocosCreator/settings.json
-2018-11-27T20:26:00.693Z - normal: checking language setting...
-2018-11-27T20:26:00.693Z - normal: Language: zh
-2018-11-27T20:26:01.269Z - success: protocol editor-framework registered
-2018-11-27T20:26:01.269Z - success: protocol app registered
-2018-11-27T20:26:01.270Z - success: protocol theme registered
-2018-11-27T20:26:01.270Z - success: protocol packages registered
-2018-11-27T20:26:01.270Z - success: protocol unpack registerred
-2018-11-27T20:26:01.270Z - success: protocol disable-commonjs registerred
-2018-11-27T20:26:02.367Z - normal: connected!
-2018-11-27T20:26:02.370Z - normal: Check project /Users/xiaowei/Desktop/trainopoly
-2018-11-27T20:26:02.372Z - normal: Initializing project /Users/xiaowei/Desktop/trainopoly
-2018-11-27T20:26:02.377Z - normal: Initializing Cocos2d
-2018-11-27T20:26:02.960Z - normal: Initializing Asset Database
-2018-11-27T20:26:02.995Z - success: protocol uuid registerred
-2018-11-27T20:26:02.995Z - success: protocol db registerred
-2018-11-27T20:26:02.995Z - success: protocol thumbnail registerred
-2018-11-27T20:26:02.996Z - normal: Loading editor/builtin packages
-2018-11-27T20:26:03.153Z - success: assets loaded
-2018-11-27T20:26:03.157Z - success: builder loaded
-2018-11-27T20:26:03.160Z - success: cocos-analytics loaded
-2018-11-27T20:26:03.164Z - success: console loaded
-2018-11-27T20:26:03.193Z - success: fb-instant-games loaded
-2018-11-27T20:26:03.194Z - success: google-instant-games loaded
-2018-11-27T20:26:03.200Z - success: hierarchy loaded
-2018-11-27T20:26:03.203Z - success: inspector loaded
-2018-11-27T20:26:03.205Z - success: keystore loaded
-2018-11-27T20:26:03.210Z - success: node-library loaded
-2018-11-27T20:26:03.211Z - success: package-asset loaded
-2018-11-27T20:26:03.213Z - success: preferences loaded
-2018-11-27T20:26:03.216Z - success: project-exporter loaded
-2018-11-27T20:26:03.230Z - success: project-importer loaded
-2018-11-27T20:26:03.233Z - success: project-settings loaded
-2018-11-27T20:26:03.237Z - success: ui-kit loaded
-2018-11-27T20:26:03.241Z - success: scene loaded
-2018-11-27T20:26:03.244Z - success: sprite-editor loaded
-2018-11-27T20:26:03.248Z - success: store loaded
-2018-11-27T20:26:03.254Z - success: timeline loaded
-2018-11-27T20:26:03.254Z - normal: Loading builtin packages
-2018-11-27T20:26:03.260Z - success: asset-db-debugger loaded
-2018-11-27T20:26:03.261Z - success: color-picker loaded
-2018-11-27T20:26:03.354Z - success: google-play-instant loaded
-2018-11-27T20:26:03.356Z - success: jsb-adapter loaded
-2018-11-27T20:26:03.361Z - success: oppo-runtime loaded
-2018-11-27T20:26:03.366Z - success: package-manager loaded
-2018-11-27T20:26:03.506Z - success: qqplay-adapter loaded
-2018-11-27T20:26:03.514Z - success: sdkbox loaded
-2018-11-27T20:26:03.519Z - success: tester loaded
-2018-11-27T20:26:03.524Z - success: ui-grid loaded
-2018-11-27T20:26:03.529Z - success: ui-kit-preview-extra loaded
-2018-11-27T20:26:03.534Z - success: ui-kit-preview loaded
-2018-11-27T20:26:03.539Z - success: ui-tree loaded
-2018-11-27T20:26:03.543Z - success: vivo-runtime loaded
-2018-11-27T20:26:03.545Z - success: weapp-adapter loaded
-2018-11-27T20:26:04.499Z - normal: Loading packages
-2018-11-27T20:26:04.504Z - normal: Watching packages
-2018-11-27T20:26:04.563Z - normal: Run Application
-2018-11-27T20:26:05.056Z - success: preview server running at http://localhost:7456
+2018-11-28T01:50:17.037Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-28T01:50:17.040Z - normal: checking language setting...
+2018-11-28T01:50:17.040Z - normal: Language: en
+2018-11-28T01:50:17.480Z - success: protocol editor-framework registered
+2018-11-28T01:50:17.480Z - success: protocol app registered
+2018-11-28T01:50:17.480Z - success: protocol theme registered
+2018-11-28T01:50:17.480Z - success: protocol packages registered
+2018-11-28T01:50:17.480Z - success: protocol unpack registerred
+2018-11-28T01:50:17.480Z - success: protocol disable-commonjs registerred
+2018-11-28T01:50:18.983Z - normal: connected!
+2018-11-28T01:50:18.986Z - normal: Check project /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T01:50:18.989Z - normal: Initializing project /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T01:50:18.993Z - normal: Initializing Cocos2d
+2018-11-28T01:50:19.557Z - normal: Initializing Asset Database
+2018-11-28T01:50:19.588Z - success: protocol uuid registerred
+2018-11-28T01:50:19.588Z - success: protocol db registerred
+2018-11-28T01:50:19.588Z - success: protocol thumbnail registerred
+2018-11-28T01:50:19.588Z - normal: Loading editor/builtin packages
+2018-11-28T01:50:19.707Z - success: assets loaded
+2018-11-28T01:50:19.710Z - success: builder loaded
+2018-11-28T01:50:19.712Z - success: cocos-analytics loaded
+2018-11-28T01:50:19.716Z - success: console loaded
+2018-11-28T01:50:19.744Z - success: fb-instant-games loaded
+2018-11-28T01:50:19.745Z - success: google-instant-games loaded
+2018-11-28T01:50:19.750Z - success: hierarchy loaded
+2018-11-28T01:50:19.753Z - success: inspector loaded
+2018-11-28T01:50:19.754Z - success: keystore loaded
+2018-11-28T01:50:19.759Z - success: node-library loaded
+2018-11-28T01:50:19.760Z - success: package-asset loaded
+2018-11-28T01:50:19.761Z - success: preferences loaded
+2018-11-28T01:50:19.764Z - success: project-exporter loaded
+2018-11-28T01:50:19.776Z - success: project-importer loaded
+2018-11-28T01:50:19.779Z - success: project-settings loaded
+2018-11-28T01:50:19.785Z - success: ui-kit loaded
+2018-11-28T01:50:19.789Z - success: scene loaded
+2018-11-28T01:50:19.790Z - success: sprite-editor loaded
+2018-11-28T01:50:19.794Z - success: store loaded
+2018-11-28T01:50:19.798Z - success: timeline loaded
+2018-11-28T01:50:19.798Z - normal: Loading builtin packages
+2018-11-28T01:50:19.803Z - success: asset-db-debugger loaded
+2018-11-28T01:50:19.804Z - success: color-picker loaded
+2018-11-28T01:50:19.871Z - success: google-play-instant loaded
+2018-11-28T01:50:19.873Z - success: jsb-adapter loaded
+2018-11-28T01:50:19.877Z - success: oppo-runtime loaded
+2018-11-28T01:50:19.881Z - success: package-manager loaded
+2018-11-28T01:50:19.956Z - success: qqplay-adapter loaded
+2018-11-28T01:50:19.963Z - success: sdkbox loaded
+2018-11-28T01:50:19.967Z - success: tester loaded
+2018-11-28T01:50:19.971Z - success: ui-grid loaded
+2018-11-28T01:50:19.975Z - success: ui-kit-preview-extra loaded
+2018-11-28T01:50:19.978Z - success: ui-kit-preview loaded
+2018-11-28T01:50:19.981Z - success: ui-tree loaded
+2018-11-28T01:50:19.983Z - success: vivo-runtime loaded
+2018-11-28T01:50:19.984Z - success: weapp-adapter loaded
+2018-11-28T01:50:20.793Z - normal: Loading packages
+2018-11-28T01:50:20.798Z - normal: Watching packages
+2018-11-28T01:50:20.862Z - normal: Run Application
+2018-11-28T01:50:21.034Z - failed: [db-task][init] Failed to import asset /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json, message: SyntaxError: /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json: Unexpected token } in JSON at position 148
+    at JSON.parse (<anonymous>)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/fire-fs/node_modules/jsonfile/index.js:36:18
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/graceful-fs.js:90:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+2018-11-28T01:50:21.248Z - success: preview server running at http://localhost:7456
+2018-11-28T01:53:20.033Z - failed: [db-task][sync-changes] Failed to import asset /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json, message: SyntaxError: /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json: Unexpected token } in JSON at position 147
+    at JSON.parse (<anonymous>)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/fire-fs/node_modules/jsonfile/index.js:36:18
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/graceful-fs.js:90:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+2018-11-28T01:54:11.668Z - failed: [db-task][sync-changes] Failed to import asset /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json, message: SyntaxError: /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json: Unexpected token ] in JSON at position 559
+    at JSON.parse (<anonymous>)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/fire-fs/node_modules/jsonfile/index.js:36:18
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/graceful-fs.js:90:16
+    at tryToString (fs.js:449:3)
+    at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:436:12)
+2018-11-28T01:55:26.001Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T01:55:26.004Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T01:55:26.004Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T01:55:26.238Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T01:55:28.079Z - normal: Start building assets
+2018-11-28T01:55:28.079Z - normal: Start spawn build-worker
+2018-11-28T01:55:28.782Z - normal: Finish spawn build-worker
+2018-11-28T01:55:28.782Z - normal: Start init build-worker
+2018-11-28T01:55:31.184Z - normal: Finish init build-worker
+2018-11-28T01:55:31.184Z - normal: Start build-assets in worker
+2018-11-28T01:55:31.422Z - normal: Finish build-assets in worker
+2018-11-28T01:55:31.425Z - normal: Finish building assets
+2018-11-28T01:55:31.435Z - normal: Start building plugin scripts
+2018-11-28T01:55:31.471Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T01:55:33.024Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T01:56:51.944Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:56:54.217Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:56:54.710Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:56:54.881Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:56:55.042Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:56:55.211Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:56:55.374Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:57:05.390Z - error: scene not saved. Please build project after saveing project.
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:6208)
+    at EventEmitter.o.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3753)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-28T01:57:19.410Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T01:57:19.412Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T01:57:19.412Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T01:57:19.414Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T01:57:21.072Z - normal: Start building assets
+2018-11-28T01:57:21.072Z - normal: Start spawn build-worker
+2018-11-28T01:57:21.695Z - normal: Finish spawn build-worker
+2018-11-28T01:57:21.695Z - normal: Start init build-worker
+2018-11-28T01:57:24.164Z - normal: Finish init build-worker
+2018-11-28T01:57:24.165Z - normal: Start build-assets in worker
+2018-11-28T01:57:24.410Z - normal: Finish build-assets in worker
+2018-11-28T01:57:24.413Z - normal: Finish building assets
+2018-11-28T01:57:24.422Z - normal: Start building plugin scripts
+2018-11-28T01:57:24.458Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T01:57:25.622Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T01:59:50.657Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T01:59:50.660Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T01:59:50.660Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T01:59:50.661Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T01:59:52.095Z - normal: Start building assets
+2018-11-28T01:59:52.095Z - normal: Start spawn build-worker
+2018-11-28T01:59:52.756Z - normal: Finish spawn build-worker
+2018-11-28T01:59:52.756Z - normal: Start init build-worker
+2018-11-28T01:59:55.128Z - normal: Finish init build-worker
+2018-11-28T01:59:55.128Z - normal: Start build-assets in worker
+2018-11-28T01:59:55.347Z - normal: Finish build-assets in worker
+2018-11-28T01:59:55.351Z - normal: Finish building assets
+2018-11-28T01:59:55.358Z - normal: Start building plugin scripts
+2018-11-28T01:59:55.393Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T01:59:56.562Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:01:33.545Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:01:33.550Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:01:33.550Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:01:33.551Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:01:35.219Z - normal: Start building assets
+2018-11-28T02:01:35.219Z - normal: Start spawn build-worker
+2018-11-28T02:01:35.874Z - normal: Finish spawn build-worker
+2018-11-28T02:01:35.874Z - normal: Start init build-worker
+2018-11-28T02:01:38.409Z - normal: Finish init build-worker
+2018-11-28T02:01:38.410Z - normal: Start build-assets in worker
+2018-11-28T02:01:38.610Z - normal: Finish build-assets in worker
+2018-11-28T02:01:38.613Z - normal: Finish building assets
+2018-11-28T02:01:38.620Z - normal: Start building plugin scripts
+2018-11-28T02:01:38.653Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:01:39.869Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:04:21.372Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:04:21.375Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:04:21.375Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:04:21.376Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:04:23.263Z - normal: Start building assets
+2018-11-28T02:04:23.263Z - normal: Start spawn build-worker
+2018-11-28T02:04:23.860Z - normal: Finish spawn build-worker
+2018-11-28T02:04:23.860Z - normal: Start init build-worker
+2018-11-28T02:04:26.216Z - normal: Finish init build-worker
+2018-11-28T02:04:26.216Z - normal: Start build-assets in worker
+2018-11-28T02:04:26.439Z - normal: Finish build-assets in worker
+2018-11-28T02:04:26.442Z - normal: Finish building assets
+2018-11-28T02:04:26.447Z - normal: Start building plugin scripts
+2018-11-28T02:04:26.480Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:04:27.671Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:06:19.058Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:06:19.062Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:06:19.063Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:06:19.064Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:06:20.864Z - normal: Start building assets
+2018-11-28T02:06:20.864Z - normal: Start spawn build-worker
+2018-11-28T02:06:21.589Z - normal: Finish spawn build-worker
+2018-11-28T02:06:21.590Z - normal: Start init build-worker
+2018-11-28T02:06:24.131Z - normal: Finish init build-worker
+2018-11-28T02:06:24.132Z - normal: Start build-assets in worker
+2018-11-28T02:06:24.363Z - normal: Finish build-assets in worker
+2018-11-28T02:06:24.367Z - normal: Finish building assets
+2018-11-28T02:06:24.375Z - normal: Start building plugin scripts
+2018-11-28T02:06:24.415Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:06:25.847Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:07:17.394Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:07:17.395Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:07:17.396Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:07:17.397Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:07:19.124Z - normal: Start building assets
+2018-11-28T02:07:19.125Z - normal: Start spawn build-worker
+2018-11-28T02:07:19.791Z - normal: Finish spawn build-worker
+2018-11-28T02:07:19.791Z - normal: Start init build-worker
+2018-11-28T02:07:22.206Z - normal: Finish init build-worker
+2018-11-28T02:07:22.206Z - normal: Start build-assets in worker
+2018-11-28T02:07:22.446Z - normal: Finish build-assets in worker
+2018-11-28T02:07:22.449Z - normal: Finish building assets
+2018-11-28T02:07:22.454Z - normal: Start building plugin scripts
+2018-11-28T02:07:22.497Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:07:23.871Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:07:49.202Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:07:49.203Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:07:49.203Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:07:49.205Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:07:50.786Z - normal: Start building assets
+2018-11-28T02:07:50.786Z - normal: Start spawn build-worker
+2018-11-28T02:07:51.485Z - normal: Finish spawn build-worker
+2018-11-28T02:07:51.485Z - normal: Start init build-worker
+2018-11-28T02:07:53.908Z - normal: Finish init build-worker
+2018-11-28T02:07:53.909Z - normal: Start build-assets in worker
+2018-11-28T02:07:54.172Z - normal: Finish build-assets in worker
+2018-11-28T02:07:54.175Z - normal: Finish building assets
+2018-11-28T02:07:54.183Z - normal: Start building plugin scripts
+2018-11-28T02:07:54.215Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:07:55.267Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:09:31.760Z - error: [db-task][delete] Failed to delete asset undefined, messages: Error: Asset /Users/tianyuli/Documents/iDeveloper/littleGameSample/assets/resources/Questions/questions.json is not exists
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:16906
+    at i.each (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:17335)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:181:20
+    at Object.async.forEachOf.async.eachOf (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:233:13)
+    at Object.async.forEach.async.each (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:209:22)
+    at u.delete (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:16842)
+    at _tasks.r.queue (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/index.js:1:2264)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:987:13
+    at Object.process (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:953:21)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:911:19
+    at u.o.error (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/utils.js:1:2250)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:17387
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:16904
+    at i.each (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:17335)
+    at /Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:181:20
+    at Object.async.forEachOf.async.eachOf (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:233:13)
+    at Object.async.forEach.async.each (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/async/lib/async.js:209:22)
+    at u.delete (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/lib/tasks.js:1:16842)
+    at _tasks.r.queue (/Applications/CocosCreator.app/Contents/Resources/app.asar/asset-db/index.js:1:2264)
+2018-11-28T02:09:42.848Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:9722
+2018-11-28T02:09:48.442Z - info: This is a raw asset, it does not exists in library
+2018-11-28T02:10:40.847Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:10:40.849Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:10:40.850Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:10:40.851Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:10:42.411Z - normal: Start building assets
+2018-11-28T02:10:42.411Z - normal: Start spawn build-worker
+2018-11-28T02:10:43.057Z - normal: Finish spawn build-worker
+2018-11-28T02:10:43.058Z - normal: Start init build-worker
+2018-11-28T02:10:45.465Z - normal: Finish init build-worker
+2018-11-28T02:10:45.465Z - normal: Start build-assets in worker
+2018-11-28T02:10:45.694Z - normal: Finish build-assets in worker
+2018-11-28T02:10:45.697Z - normal: Finish building assets
+2018-11-28T02:10:45.703Z - normal: Start building plugin scripts
+2018-11-28T02:10:45.741Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:10:46.976Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:11:58.324Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:11:58.327Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:11:58.327Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:11:58.328Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:11:59.869Z - normal: Start building assets
+2018-11-28T02:11:59.870Z - normal: Start spawn build-worker
+2018-11-28T02:12:00.500Z - normal: Finish spawn build-worker
+2018-11-28T02:12:00.500Z - normal: Start init build-worker
+2018-11-28T02:12:02.927Z - normal: Finish init build-worker
+2018-11-28T02:12:02.927Z - normal: Start build-assets in worker
+2018-11-28T02:12:03.143Z - normal: Finish build-assets in worker
+2018-11-28T02:12:03.146Z - normal: Finish building assets
+2018-11-28T02:12:03.151Z - normal: Start building plugin scripts
+2018-11-28T02:12:03.185Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:12:04.377Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:12:17.096Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:12:17.100Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:12:17.101Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:12:17.103Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:12:18.684Z - normal: Start building assets
+2018-11-28T02:12:18.685Z - normal: Start spawn build-worker
+2018-11-28T02:12:19.301Z - normal: Finish spawn build-worker
+2018-11-28T02:12:19.301Z - normal: Start init build-worker
+2018-11-28T02:12:21.696Z - normal: Finish init build-worker
+2018-11-28T02:12:21.696Z - normal: Start build-assets in worker
+2018-11-28T02:12:21.903Z - normal: Finish build-assets in worker
+2018-11-28T02:12:21.907Z - normal: Finish building assets
+2018-11-28T02:12:21.912Z - normal: Start building plugin scripts
+2018-11-28T02:12:21.947Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:12:23.054Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:13:56.784Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:13:56.786Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:13:56.787Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:13:56.788Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:13:58.452Z - normal: Start building assets
+2018-11-28T02:13:58.453Z - normal: Start spawn build-worker
+2018-11-28T02:13:59.112Z - normal: Finish spawn build-worker
+2018-11-28T02:13:59.112Z - normal: Start init build-worker
+2018-11-28T02:14:01.656Z - normal: Finish init build-worker
+2018-11-28T02:14:01.656Z - normal: Start build-assets in worker
+2018-11-28T02:14:01.921Z - normal: Finish build-assets in worker
+2018-11-28T02:14:01.929Z - normal: Finish building assets
+2018-11-28T02:14:01.939Z - normal: Start building plugin scripts
+2018-11-28T02:14:01.977Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:14:03.376Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:14:55.802Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:14:55.806Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:14:55.807Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:14:55.808Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:14:57.436Z - normal: Start building assets
+2018-11-28T02:14:57.436Z - normal: Start spawn build-worker
+2018-11-28T02:14:58.098Z - normal: Finish spawn build-worker
+2018-11-28T02:14:58.098Z - normal: Start init build-worker
+2018-11-28T02:15:00.453Z - normal: Finish init build-worker
+2018-11-28T02:15:00.454Z - normal: Start build-assets in worker
+2018-11-28T02:15:00.656Z - normal: Finish build-assets in worker
+2018-11-28T02:15:00.658Z - normal: Finish building assets
+2018-11-28T02:15:00.664Z - normal: Start building plugin scripts
+2018-11-28T02:15:00.697Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:15:01.794Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:15:31.246Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:15:31.247Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:15:31.247Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:15:31.248Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:15:33.013Z - normal: Start building assets
+2018-11-28T02:15:33.014Z - normal: Start spawn build-worker
+2018-11-28T02:15:33.614Z - normal: Finish spawn build-worker
+2018-11-28T02:15:33.615Z - normal: Start init build-worker
+2018-11-28T02:15:36.060Z - normal: Finish init build-worker
+2018-11-28T02:15:36.060Z - normal: Start build-assets in worker
+2018-11-28T02:15:36.297Z - normal: Finish build-assets in worker
+2018-11-28T02:15:36.303Z - normal: Finish building assets
+2018-11-28T02:15:36.310Z - normal: Start building plugin scripts
+2018-11-28T02:15:36.367Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:15:37.447Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:16:34.682Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:16:34.683Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:16:34.683Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:16:34.684Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:16:36.402Z - normal: Start building assets
+2018-11-28T02:16:36.402Z - normal: Start spawn build-worker
+2018-11-28T02:16:37.083Z - normal: Finish spawn build-worker
+2018-11-28T02:16:37.083Z - normal: Start init build-worker
+2018-11-28T02:16:39.463Z - normal: Finish init build-worker
+2018-11-28T02:16:39.463Z - normal: Start build-assets in worker
+2018-11-28T02:16:39.669Z - normal: Finish build-assets in worker
+2018-11-28T02:16:39.672Z - normal: Finish building assets
+2018-11-28T02:16:39.677Z - normal: Start building plugin scripts
+2018-11-28T02:16:39.708Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:16:40.811Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:17:14.811Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:17:14.812Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:17:14.812Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:17:14.812Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:17:16.523Z - normal: Start building assets
+2018-11-28T02:17:16.523Z - normal: Start spawn build-worker
+2018-11-28T02:17:17.297Z - normal: Finish spawn build-worker
+2018-11-28T02:17:17.298Z - normal: Start init build-worker
+2018-11-28T02:17:19.649Z - normal: Finish init build-worker
+2018-11-28T02:17:19.649Z - normal: Start build-assets in worker
+2018-11-28T02:17:19.870Z - normal: Finish build-assets in worker
+2018-11-28T02:17:19.873Z - normal: Finish building assets
+2018-11-28T02:17:19.878Z - normal: Start building plugin scripts
+2018-11-28T02:17:19.912Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:17:21.014Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:19:34.475Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:19:34.478Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:19:34.478Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:19:34.479Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:19:36.108Z - normal: Start building assets
+2018-11-28T02:19:36.108Z - normal: Start spawn build-worker
+2018-11-28T02:19:36.750Z - normal: Finish spawn build-worker
+2018-11-28T02:19:36.751Z - normal: Start init build-worker
+2018-11-28T02:19:39.148Z - normal: Finish init build-worker
+2018-11-28T02:19:39.149Z - normal: Start build-assets in worker
+2018-11-28T02:19:39.350Z - normal: Finish build-assets in worker
+2018-11-28T02:19:39.352Z - normal: Finish building assets
+2018-11-28T02:19:39.358Z - normal: Start building plugin scripts
+2018-11-28T02:19:39.390Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:19:40.536Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:22:18.389Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:22:18.391Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:22:18.392Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:22:18.393Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:22:19.967Z - normal: Start building assets
+2018-11-28T02:22:19.967Z - normal: Start spawn build-worker
+2018-11-28T02:22:20.638Z - normal: Finish spawn build-worker
+2018-11-28T02:22:20.638Z - normal: Start init build-worker
+2018-11-28T02:22:23.026Z - normal: Finish init build-worker
+2018-11-28T02:22:23.026Z - normal: Start build-assets in worker
+2018-11-28T02:22:23.244Z - normal: Finish build-assets in worker
+2018-11-28T02:22:23.247Z - normal: Finish building assets
+2018-11-28T02:22:23.253Z - normal: Start building plugin scripts
+2018-11-28T02:22:23.287Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:22:24.471Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:23:08.530Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:23:08.531Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:23:08.531Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:23:08.532Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:23:10.154Z - normal: Start building assets
+2018-11-28T02:23:10.154Z - normal: Start spawn build-worker
+2018-11-28T02:23:10.848Z - normal: Finish spawn build-worker
+2018-11-28T02:23:10.849Z - normal: Start init build-worker
+2018-11-28T02:23:13.230Z - normal: Finish init build-worker
+2018-11-28T02:23:13.230Z - normal: Start build-assets in worker
+2018-11-28T02:23:13.468Z - normal: Finish build-assets in worker
+2018-11-28T02:23:13.472Z - normal: Finish building assets
+2018-11-28T02:23:13.478Z - normal: Start building plugin scripts
+2018-11-28T02:23:13.512Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:23:14.655Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully
+2018-11-28T02:24:02.669Z - normal: Start building with options : {
+  "actualPlatform": "wechatgame",
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build",
+  "debug": true,
+  "dest": "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "wechatgame",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "scenes": [
+    "0e28431e-f315-4496-8a2e-ff8832e62d35",
+    "afad4943-d925-4b1b-9df0-01bbc71f6126",
+    "0a22748c-777d-43a1-a273-a26bd7e7bb5b",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "0e28431e-f315-4496-8a2e-ff8832e62d35",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "1d4bb523-5a36-4a",
+  "zipCompressJs": true,
+  "project": "/Users/tianyuli/Documents/iDeveloper/littleGameSample",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2018-11-28T02:24:02.672Z - normal: Building /Users/tianyuli/Documents/iDeveloper/littleGameSample
+2018-11-28T02:24:02.672Z - normal: Destination /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame
+2018-11-28T02:24:02.674Z - normal: Delete /Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame/**/*
+2018-11-28T02:24:04.312Z - normal: Start building assets
+2018-11-28T02:24:04.312Z - normal: Start spawn build-worker
+2018-11-28T02:24:04.950Z - normal: Finish spawn build-worker
+2018-11-28T02:24:04.950Z - normal: Start init build-worker
+2018-11-28T02:24:07.300Z - normal: Finish init build-worker
+2018-11-28T02:24:07.300Z - normal: Start build-assets in worker
+2018-11-28T02:24:07.538Z - normal: Finish build-assets in worker
+2018-11-28T02:24:07.541Z - normal: Finish building assets
+2018-11-28T02:24:07.547Z - normal: Start building plugin scripts
+2018-11-28T02:24:07.582Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-28T02:24:08.700Z - normal: Built to "/Users/tianyuli/Documents/iDeveloper/littleGameSample/build/wechatgame" successfully

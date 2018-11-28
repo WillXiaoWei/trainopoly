@@ -13,6 +13,10 @@ window._CCSettings = {
             a29unvIMZLDpatjXGSGEkt: [
                 "Music/yoyoyo.mp3",
                 "cc.AudioClip"
+            ],
+            "4bKL8kibxDWo5Zm0si3IR5": [
+                "questions.json",
+                "cc.JsonAsset"
             ]
         }
     },
@@ -23,16 +27,16 @@ window._CCSettings = {
             uuid: "0eKEMe8xVEloou/4gy5i01"
         },
         {
+            url: "db://assets/Scene/mainSingleGame.fire",
+            uuid: "afrUlD2SVLG53wAbvHH2Em"
+        },
+        {
             url: "db://assets/Scene/settings.fire",
             uuid: "0aInSMd31DoaJzomvX57tb"
         },
         {
             url: "db://assets/Scene/welcome.fire",
             uuid: "2dL3kvpAxJu6GJ7RdqJG5J"
-        },
-        {
-            url: "db://assets/Scene/mainSingleGame.fire",
-            uuid: "afrUlD2SVLG53wAbvHH2Em"
         }
     ],
     packedAssets: {
@@ -77,10 +81,12 @@ window._CCSettings = {
             "1987e",
             "0d8982551",
             "e49c7",
+            "4bKL8kibxDWo5Zm0si3IR5",
+            "6e747",
             "a29unvIMZLDpatjXGSGEkt",
             "9471e",
             "afrUlD2SVLG53wAbvHH2Em",
-            "e43a2"
+            "d32a8"
         ],
         "raw-assets": [
             "6eBWFz0oVHPLIGQKf/9Thu",

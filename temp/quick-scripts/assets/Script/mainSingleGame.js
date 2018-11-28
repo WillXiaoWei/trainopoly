@@ -2,7 +2,7 @@
 cc._RF.push(module, 'e23a9ROq0tEK5FFyO+LWCKH', 'mainSingleGame', __filename);
 // Script/mainSingleGame.js
 
-"use strict";
+'use strict';
 
 // Learn cc.Class:
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
@@ -37,8 +37,12 @@ cc.Class({
 
     // LIFE-CYCLE CALLBACKS:
 
-    // onLoad () {},
-
+    onLoad: function onLoad() {
+        cc.log('main scen');
+        cc.loader.loadRes('questions.json', function (err, res) {
+            cc.log(res.json.level1);
+        });
+    },
     start: function start() {}
 }
 
