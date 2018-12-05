@@ -27,6 +27,10 @@ window._CCSettings = {
             uuid: "0eKEMe8xVEloou/4gy5i01"
         },
         {
+            url: "db://assets/Scene/gameOver.fire",
+            uuid: "60Kv+8jKJMGrkteL7iqJPX"
+        },
+        {
             url: "db://assets/Scene/mainSingleGame.fire",
             uuid: "afrUlD2SVLG53wAbvHH2Em"
         },
@@ -76,6 +80,12 @@ window._CCSettings = {
             "e8Ueib+qJEhL6mXAHdnwbi",
             "e9LfyTIFJKJb2mayEfb1nW"
         ],
+        "0ce353208": [
+            "29FYIk+N1GYaeWH/q1NxQO",
+            "60Kv+8jKJMGrkteL7iqJPX",
+            "e97GVMl6JHh5Ml5qEDdSGa",
+            "f0BIwQ8D5Ml7nTNQbh1YlS"
+        ],
         "0d8982551": [
             "0eKEMe8xVEloou/4gy5i01",
             "76C67OqEFCepziVr3inUKb"
@@ -91,6 +101,8 @@ window._CCSettings = {
             "337ca",
             "0b8943f1d",
             "42ca8",
+            "0ce353208",
+            "9c93c",
             "0d8982551",
             "e49c7",
             "4bKL8kibxDWo5Zm0si3IR5",

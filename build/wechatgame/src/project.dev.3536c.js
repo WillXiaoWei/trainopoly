@@ -80,6 +80,25 @@ window.__require = function e(t, n, r) {
     }
     cc._RF.pop();
   }, {} ],
+  gameOver: [ function(require, module, exports) {
+    "use strict";
+    cc._RF.push(module, "81d3agTaAJNqaC8SbW4P0tg", "gameOver");
+    "use strict";
+    cc.Class({
+      extends: cc.Component,
+      properties: {},
+      onLoad: function onLoad() {
+        var buttonLocation = "Canvas/playAgainBtn";
+        var nodeButton = cc.find(buttonLocation).getComponent(cc.Button);
+        nodeButton.node.on(cc.Node.EventType.TOUCH_START, function(event) {
+          cc.log("play again");
+          cc.director.loadScene("mainSingleGame");
+        });
+      },
+      start: function start() {}
+    });
+    cc._RF.pop();
+  }, {} ],
   getUserInfo: [ function(require, module, exports) {
     "use strict";
     cc._RF.push(module, "562ferZNqRPVb9zc1MS27rB", "getUserInfo");
@@ -324,4 +343,4 @@ window.__require = function e(t, n, r) {
   }, {
     "./Storage": "Storage"
   } ]
-}, {}, [ "Storage", "getUserInfo", "mainSingleGame", "settings", "welcome" ]);
+}, {}, [ "Storage", "gameOver", "getUserInfo", "mainSingleGame", "settings", "welcome" ]);
