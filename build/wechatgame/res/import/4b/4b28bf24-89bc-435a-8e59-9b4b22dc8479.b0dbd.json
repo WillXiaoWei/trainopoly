@@ -1,8 +1,6 @@
 {
   "__type__": "cc.JsonAsset",
   "_name": "questions",
-  "_objFlags": 0,
-  "_native": "",
   "json": {
     "questions": [
       [
